@@ -1,0 +1,23 @@
+{
+  "name": "anaconda",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudsony999/vict.git"
+  },
+  "keywords": [
+    "test",
+    "calc"
+  ],
+  "author": "cloudsony999 <cloudsony999@gmail.com> (https://test999.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudsony999/vict/issues"
+  },
+  "homepage": "https://github.com/cloudsony999/vict#readme"
+}
